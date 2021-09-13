@@ -5,7 +5,7 @@ import FAQ from "./Containers/FAQ";
 function App() {
   return (
     <div className="App">
-      {/* <FAQ /> */}
+      <FAQ />
       <ComponentPrices />
     </div>
   );
