@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import FAQ from "./Containers/FAQ";
 
 function App() {
   return (
     <div className="App">
-      <h1>Pollux</h1>
+      <FAQ />
     </div>
   );
 }
