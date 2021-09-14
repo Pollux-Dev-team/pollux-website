@@ -1,4 +1,5 @@
 import "./App.css";
+import Contact from "./Components/Contact/Contact";
 import ComponentPrices from "./Containers/ComponentPrices";
 import FAQ from "./Containers/FAQ";
 
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <FAQ />
       <ComponentPrices />
+      <Contact />
     </div>
   );
 }
