@@ -14,7 +14,7 @@ const Contact = () => {
         </p>
       </div>
       <div className="flex justify-center items-center flex-col">
-        <p>Or via mobile on the following numbers</p>
+        <p className="mb-1">Or via mobile on the following numbers</p>
         <p className="text-blue-300">+201095228556</p>
         <p className="text-blue-300">+201939639246</p>
       </div>
