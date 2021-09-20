@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imgSource": "https://via.placeholder.com/200x150/",
+    "header": "Elarizona Bakery",
+    "description" : "Elarizona is a leading bakery in the Middle East, with by far one of the best marketing"
+  },
+  {
+    "id": 2,
+    "imgSource": "https://via.placeholder.com/200x150",
+    "header": "How much does Netflix cost?",
+    "description" : "hello world"
+  },
+  {
+    "id": 3,    
+    "imgSource": "https://via.placeholder.com/200x150",
+    "header": "Where can I watch?",
+    "description" : "hello world"
+  },
+  {
+    "id": 4,
+    "imgSource": "https://via.placeholder.com/200x150",
+    "header": "How do I cancel?",
+    "description" : "hello world"
+  },
+  {
+    "id": 5,
+    "imgSource": "https://via.placeholder.com/200x150",
+    "header": "What can I watch on Netflix?",
+    "description" : "hello world"
+  },
+  {
+    "id": 6,
+    "imgSource": "https://via.placeholder.com/200x150",
+    "header": "What can I watch on Netflix?",
+    "description" : "hello world"
+  }
+]
