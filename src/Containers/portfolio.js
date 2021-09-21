@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../Components/previousWork/previousWork";
+import PreviousWork from "../Components/PreviousWork/PreviousWork";
 import data from "../Fixtures/portfolio.json";
 
 function Portfolio() {
@@ -12,16 +12,16 @@ function Portfolio() {
       <div className="justify-center flex flex-wrap">
         {data.map((card) => {
           return (
-          <Card  
-            imgSource = {card.imgSource}
-            header = {card.header}
-            description = {card.description}
-          />
+            <PreviousWork
+              imgSource={card.imgSource}
+              header={card.header}
+              description={card.description}
+            />
           );
         })}
       </div>
     </div>
   );
-};
+}
 
 export default Portfolio;
