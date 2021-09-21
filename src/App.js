@@ -5,13 +5,15 @@ import ComponentPrices from "./Containers/ComponentPrices";
 import FAQ from "./Containers/FAQ";
 import Portfolio from "./Containers/Portfolio";
 import Header from "./Components/Header/Header";
+import TestemonialContainer from "./Containers/TestemonialContainer";
+import Testemonial from "./Components/Testemonial/Testemonial";
 import Footer from "./Components/Footer/Footer"
+
 
 function App() {
   return (
     <div className="App">
-      {/* <FAQ />
-      <ComponentPrices />
+
       <Contact /> 
       <Form />
       <Header />
@@ -19,6 +21,7 @@ function App() {
       <Header />
       <Portfolio />
       <Footer />
+
 
     </div>
   );
