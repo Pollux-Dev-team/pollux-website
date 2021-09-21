@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 
 function PreviousWork({ imgSource, header, description }) {
   return (
@@ -7,6 +7,7 @@ function PreviousWork({ imgSource, header, description }) {
         <img
           className="m-auto text-center flex-shrink-0 rounded-lg"
           src={imgSource}
+          alt={header}
         />
       </div>
       <div classname="flex-1 p-6">

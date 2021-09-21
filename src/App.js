@@ -5,17 +5,19 @@ import ComponentPrices from "./Containers/ComponentPrices";
 import FAQ from "./Containers/FAQ";
 import Portfolio from "./Containers/Portfolio";
 import Header from "./Components/Header/Header";
+import TestemonialContainer from "./Containers/TestemonialContainer";
+import Testemonial from "./Components/Testemonial/Testemonial";
 
 function App() {
   return (
     <div className="App">
       {/* <FAQ />
       <ComponentPrices />
-      <Contact /> 
+      <Contact />
       <Portfolio />
       <Form />
-      <Header />
-      */}
+      <Header /> */}
+      <TestemonialContainer />
     </div>
   );
 }
