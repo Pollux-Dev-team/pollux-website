@@ -5,6 +5,7 @@ import ComponentPrices from "./Containers/ComponentPrices";
 import FAQ from "./Containers/FAQ";
 import Portfolio from "./Containers/Portfolio";
 import Header from "./Components/Header/Header";
+import Footer from "./Components/Footer/Footer"
 
 function App() {
   return (
@@ -12,10 +13,13 @@ function App() {
       {/* <FAQ />
       <ComponentPrices />
       <Contact /> 
-      <Portfolio />
       <Form />
       <Header />
       */}
+      <Header />
+      <Portfolio />
+      <Footer />
+
     </div>
   );
 }
