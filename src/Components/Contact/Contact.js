@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <div className="flex justify-center items-center flex-col">
-      <div className="flex justify-center items-center flex-col mb-6">
+      <div className="flex justify-center items-center flex-col m-12">
         <h1 className="text-2xl font-bold mb-2">Contact us</h1>
         <div className="bg-yellow-500 w-16 h-1"></div>
       </div>

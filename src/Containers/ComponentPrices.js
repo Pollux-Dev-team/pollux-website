@@ -4,8 +4,8 @@ import prices from "../Fixtures/Prices.json";
 
 const ComponentPrices = () => {
   return (
-    <div>
-      <div className="flex justify-center items-center flex-col mb-6">
+    <div className="my-24">
+      <div className="flex justify-center items-center flex-col m-12">
         <h1 className="text-2xl font-bold mb-2">Component Prices</h1>
         <div className="bg-yellow-500 w-16 h-1"></div>
       </div>

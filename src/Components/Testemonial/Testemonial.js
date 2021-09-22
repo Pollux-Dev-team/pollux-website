@@ -2,9 +2,9 @@ import React from "react";
 
 const Testemonial = ({ customer }) => {
   return (
-    <div className="flex-col ml-14 justify-center content-center w-2/12 text-center">
+    <div className="flex-col m-10 text-center">
       <img
-        className="rounded-full mb-4"
+        className="rounded-full mb-4 m-auto"
         src={customer.photo}
         alt={customer.altText}
       />

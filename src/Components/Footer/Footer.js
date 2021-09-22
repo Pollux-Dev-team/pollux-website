@@ -1,12 +1,12 @@
 function Footer(){
     return(
         <div className="flex flex-col">
-            <div className="flex flex-row border ">
-                <div className="flex-1 flex-col p-20">
+            <div className="flex md:flex-row flex-col border ">
+                <div className="flex-1 flex-col md:p-20 p-12">
                     <img className="m-auto pb-3" src="https://via.placeholder.com/100" alt="Pollux's logo"/>
                     <h3 className="text-center">POLLUX COMPANY</h3>
                 </div>
-                <div className="flex-1 flex-col p-11">
+                <div className="flex-1 flex-col px-11 md:py-11 py-8">
                     <div className="py-3">Quick links</div>
                     <div className="my-2 bg-yellow-500 w-16 h-1"></div>
                     <div className="py-1">contact us</div>
@@ -14,7 +14,7 @@ function Footer(){
                     <div className="py-1">Services</div>
                     <div className="py-1">Previous Work</div>
                 </div>
-                <div className="flex-1 flex-col p-11">
+                <div className="flex-1 flex-col px-11 md:py-11 py-8">
                     <div className="py-3">Quick links</div>
                     <div className="my-2 bg-yellow-500 w-16 h-1"></div>
                     <div className="py-1">contact us</div>
