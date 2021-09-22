@@ -1,12 +1,12 @@
 import "./App.css";
-import Contact from "./Components/Contact/Contact";
+//import Contact from "./Components/Contact/Contact";
 import Form from "./Components/Form/Form";
-import ComponentPrices from "./Containers/ComponentPrices";
-import FAQ from "./Containers/FAQ";
-import Portfolio from "./Containers/Portfolio";
-import Header from "./Components/Header/Header";
+//import ComponentPrices from "./Containers/ComponentPrices";
+//import FAQ from "./Containers/FAQ";
+//import Portfolio from "./Containers/Portfolio";
+//import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
-import Packages from "./Components/Packages/Packages";
+//import Packages from "./Components/Packages/Packages";
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
       <Form />
       <Header />
       */}
-      <Packages />
+      <Form />
       <Footer />
 
     </div>
