@@ -1,5 +1,3 @@
-import react from "react";
-
 function Header(){
     return(
         <div className=" mt-8 mb-4 flex flex-row relative bg-white border">

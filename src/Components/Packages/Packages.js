@@ -12,44 +12,44 @@ function Packages(){
                     <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make</p>
                     <p className="text-center">when an unknown printer took a galley of type and scrambled it to make</p>
                 </div>
-                <div className="flex flex-col mx-3 my-8">
+                <div className="flex flex-col mx-3 mt-8">
                     <div classname="flex flex-row text-left">
                         <p className="text-2xl mx-3 font-bold italic">Start now with our basic package!</p>
                     </div>
                     <div className="flex md:flex-row flex-col my-5">
-                        <div className="flex flex-col mx-3 md:my-none my-3 bg-blue-300 p-3 rounded-md">
-                            <div className="font-bold text-center text-2xl p-4">19.99$</div>
+                        <div className="flex flex-col mx-3 md:my-0 my-3 bg-blue-300 p-3 rounded-md">
+                            <div className="font-bold text-center text-4xl p-6">19.99$</div>
                             <div className="text-center text-white">SILVER PACKAGE</div>
                             <ul className="list-inside list-disc p-4">
-                                <li>Lorem ipsum is sm.</li>
-                                <li>dummy text of the</li>
-                                <li>printing and typesetting industry</li>
-                                <li>Lorem Ipsum has</li>
-                                <li>the industry's stand dummy.</li>
+                                <li className="py-2">Lorem ipsum is sm.</li>
+                                <li className="py-2">dummy text of the</li>
+                                <li className="py-2">printing and typesetting industry</li>
+                                <li className="py-2">Lorem Ipsum has</li>
+                                <li className="py-2">the industry's stand dummy.</li>
                             </ul>
                             <div className="text-white w-24 mx-auto my-3 text-center bg-red-500 rounded-lg">Purchase</div>
                         </div>
-                        <div className="flex flex-col mx-3 md:my-none my-3 bg-blue-300 p-3 rounded-md">
-                            <div className="font-bold text-center text-2xl p-4">19.99$</div>
+                        <div className="flex flex-col mx-3 md:my-0 my-3 bg-blue-300 p-3 rounded-md">
+                            <div className="font-bold text-center text-4xl p-6">19.99$</div>
                             <div className="text-center text-white">SILVER PACKAGE</div>
                             <ul className="list-inside list-disc p-4">
-                                <li>Lorem ipsum is sm.</li>
-                                <li>dummy text of the</li>
-                                <li>printing and typesetting industry</li>
-                                <li>Lorem Ipsum has</li>
-                                <li>the industry's stand dummy.</li>
+                                <li className="py-2">Lorem ipsum is sm.</li>
+                                <li className="py-2">dummy text of the</li>
+                                <li className="py-2">printing and typesetting industry</li>
+                                <li className="py-2">Lorem Ipsum has</li>
+                                <li className="py-2">the industry's stand dummy.</li>
                             </ul>
                             <div className="text-white w-24 mx-auto my-3 text-center bg-red-500 rounded-lg">Purchase</div>
                         </div>
-                        <div className="flex flex-col mx-3 md:my-none my-3 bg-blue-300 p-3 rounded-md">
-                            <div className="font-bold text-center text-2xl p-4">19.99$</div>
+                        <div className="flex flex-col mx-3 md:my-0 my-3 bg-blue-300 p-3 rounded-md">
+                            <div className="font-bold text-center text-4xl p-6">19.99$</div>
                             <div className="text-center text-white">SILVER PACKAGE</div>
                             <ul className="list-inside list-disc p-4">
-                                <li>Lorem ipsum is sm.</li>
-                                <li>dummy text of the</li>
-                                <li>printing and typesetting industry</li>
-                                <li>Lorem Ipsum has</li>
-                                <li>the industry's stand dummy.</li>
+                                <li className="py-2">Lorem ipsum is sm.</li>
+                                <li className="py-2">dummy text of the</li>
+                                <li className="py-2">printing and typesetting industry</li>
+                                <li className="py-2">Lorem Ipsum has</li>
+                                <li className="py-2">the industry's stand dummy.</li>
                             </ul>
                             <div className="text-white w-24 mx-auto my-3 text-center bg-red-500 rounded-lg">Purchase</div>
                         </div>

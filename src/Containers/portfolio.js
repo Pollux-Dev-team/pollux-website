@@ -1,6 +1,6 @@
 import React from "react";
 import PreviousWork from "../Components/PreviousWork/PreviousWork";
-import data from "../Fixtures/portfolio.json";
+import data from "../Fixtures/Portfolio.json";
 
 function Portfolio() {
   return (
