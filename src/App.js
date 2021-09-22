@@ -8,16 +8,12 @@ import Form from "./Components/Form/Form";
 import Footer from "./Components/Footer/Footer";
 //import Packages from "./Components/Packages/Packages";
 
+
+
 function App() {
   return (
     <div className="App">
-      {/* <FAQ />
-      <ComponentPrices />
-      <Contact /> 
-      <Portfolio />
-      <Form />
-      <Header />
-      */}
+
       <Form />
       <Footer />
 

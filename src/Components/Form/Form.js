@@ -2,6 +2,7 @@ import React from "react";
 
 const Form = () => {
   return (
+
     <div className="flex flex-row justify-center items-center m-auto">
       <div className="flex flex-col py-24 px-12">
         <img
@@ -17,6 +18,7 @@ const Form = () => {
         <input type="text" className="w-96 border-none bg-blue-400 placeholder-gray-200 rounded-lg px-3 pb-24 pt-3 my-4" placeholder="Comments" />
         <button className="w-24 text-center p-2 font-sm justify-center m-auto font-light rounded-3xl text-gray-200 bg-red-500">Submit</button>
       </div>
+
     </div>
   );
 };

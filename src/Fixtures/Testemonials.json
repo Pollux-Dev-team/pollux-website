@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "description": "Working with pollux was the best decision I have ever made",
+    "photo": "https://via.placeholder.com/150",
+    "title": "Mr",
+    "altText": "customer picture",
+    "name": "Richard Nickson"
+  },
+  {
+    "id": 2,
+    "description": "Working with pollux was the best decision I have ever made",
+    "title": "Mr",
+    "altText": "customer picture",
+    "photo": "https://via.placeholder.com/150",
+    "name": "Richard Nickson"
+  },
+  {
+    "id": 3,
+    "description": "Working with pollux was the best decision I have ever made",
+    "title": "Mr",
+    "altText": "customer picture",
+    "photo": "https://via.placeholder.com/150",
+    "name": "Richard Nickson"
+  }
+]
