@@ -1,6 +1,6 @@
 function Mission(){
     return(
-        <div className="flex md:flex-row flex-col my-16 md:ml-0 ml-16 mr-16">
+        <div className="flex md:flex-row flex-col my-36 md:ml-0 ml-16 mr-16">
             <div className="flex md:flex-row flex-col flex-1 md:-ml-12 md:justify-start ">
                 <div class="bg-blue-300 md:mx-0 m-auto my-auto rounded-full h-80 w-80 flex "></div>
                 <div className="flex flex-col md:text-left text-center flex-1 my-auto z-10 md:-ml-48 -ml-0 md:mt-auto -mt-48 md:mb-auto -mb-0">

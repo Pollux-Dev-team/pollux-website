@@ -4,8 +4,8 @@ import questions from "../Fixtures/FAQ.json";
 
 const FAQ = () => {
   return (
-    <div>
-      <div className="flex justify-center items-center flex-col mb-6">
+    <div className="mb-12 ">
+      <div className="flex justify-center items-center flex-col m-24">
         <h1 className="text-2xl font-bold mb-2">Frequently Asked Questions</h1>
         <div className="bg-yellow-500 w-16 h-1"></div>
       </div>
