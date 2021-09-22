@@ -7,18 +7,17 @@ import Portfolio from "./Containers/Portfolio";
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
 import Packages from "./Components/Packages/Packages";
+import TestemonialContainer from "./Containers/TestemonialContainer";
+import Testemonial from "./Components/Testemonial/Testemonial";
+
 
 function App() {
   return (
     <div className="App">
-      {/* <FAQ />
-      <ComponentPrices />
-      <Contact /> 
-      <Portfolio />
-      <Form />
+
+
       <Header />
-      */}
-      <Packages />
+      <Portfolio />
       <Footer />
 
     </div>
