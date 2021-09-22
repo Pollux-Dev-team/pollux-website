@@ -2,7 +2,6 @@ import React from "react";
 
 const Form = () => {
   return (
-
     <div className="flex flex-row justify-center items-center m-auto">
       <div className="flex flex-col py-24 px-12">
         <img
