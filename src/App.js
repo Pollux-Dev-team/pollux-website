@@ -5,21 +5,22 @@ import ComponentPrices from "./Containers/ComponentPrices";
 import FAQ from "./Containers/FAQ";
 import Portfolio from "./Containers/Portfolio";
 import Header from "./Components/Header/Header";
-import Footer from "./Components/Footer/Footer";
-import Packages from "./Components/Packages/Packages";
 import TestemonialContainer from "./Containers/TestemonialContainer";
 import Testemonial from "./Components/Testemonial/Testemonial";
-
+import Footer from "./Components/Footer/Footer";
+import ServicesContainer from "./Containers/ServicesContainer";
 
 function App() {
   return (
     <div className="App">
-
+      <Contact />
+      <Form />
+      <Header />
 
       <Header />
       <Portfolio />
+      <ServicesContainer />
       <Footer />
-
     </div>
   );
 }
