@@ -10,13 +10,24 @@ const Contact = () => {
       <div className="mb-6">
         <p>
           Reach out to us on our email{" "}
-          <span className="text-blue-300">polluxfam@gmail.com</span>
+          <a
+            href="mailto:polluxfam@gmail.com"
+            target="_blank"
+            className="text-blue-300"
+            rel="noreferrer"
+          >
+            polluxfam@gmail.com
+          </a>
         </p>
       </div>
       <div className="flex justify-center items-center flex-col">
         <p className="mb-1">Or via mobile on the following numbers</p>
-        <p className="text-blue-300">+201095228556</p>
-        <p className="text-blue-300">+201939639246</p>
+        <a href="tel:201270887883" className="text-blue-300">
+          +20 127 0887883
+        </a>
+        <a href="tel:201095228556" className="text-blue-300">
+          +20 109 5228556
+        </a>
       </div>
     </div>
   );
